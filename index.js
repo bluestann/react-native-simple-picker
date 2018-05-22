@@ -36,7 +36,7 @@ const styles = {
 		justifyContent: 'center',
 		alignItems: 'center',
 		padding: 0,
-		backgroundColor: '#F5FCFF',
+		backgroundColor: 'white',
 	},
 
 	buttonView: {
